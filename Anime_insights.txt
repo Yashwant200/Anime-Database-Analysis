@@ -1,0 +1,52 @@
+Insights from Anime database: -
+
+
+* Name of anime having high rating:-
+
+  1.Demon Slayer: Kimetsu no Yaiba -- Entertainment District Arc -- 4.60 Rating
+  2.Fruits Basket the Final Season -- 4.60 Rating
+  3.Mo Dao Zu Shi 3 -- 4.58 Rating
+  4.Fullmetal Alchemist: Brotherhood -- 4.58 Rating
+  5.Attack on Titan 3rd Season: Part II -- 4.57 Rating
+
+
+* Types of Anime:-
+
+ according to the database most of the animes are "TV" type,
+ and second is "Movie" types.
+ Then third one is "web" type.
+
+
+* As per the season:-
+
+ we observed that most of the anime was released in "Spring season". 
+ So Spring season is most popular season in order to release new anime.
+
+
+
+
+* In year 2017 number of anime is more in terms of release. 
+
+
+* Anime has more episodes: -
+  
+  As per our dataset Shuimu Baobao Kan Shijie has 800 episodes.
+  kotowaza house has 773 episodes.
+  Asa da yo! Kaishain has 744 episodes.
+  Shima Shima Tora no Shimajirou has 726 episodes.
+  Doraemon (2005) has 555 episodes.
+  
+     these are the some anime name with high no.episodes.
+  
+  
+
+* Genre: -
+ 
+  Most people love to watch anime which belongs to 'action', 'advanture', 'fantasy', 
+  'shorts', 'chinese animation', and 'family friendly'. 
+
+
+
+
+
+
